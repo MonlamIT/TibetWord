@@ -1,6 +1,6 @@
 var dictionaryNames = ["tdict-city.txt", "tdict-collection.txt", "tdict-common.txt", "tdict-country.txt", "tdict-district.txt", "tdict-geo.txt", "tdict-history.txt", "tdict-ict.txt", "tdict-lang-ethnic.txt", "tdict-proper.txt", "tdict-science.txt", "tdict-spell.txt", "tdict-std-compound.txt", "tdict-std.txt"];
 var compoundDictionryNames = ["compound-words.txt"];
-var dictionaryURL = 'data/';
+var dictionaryURL = './data/';
 
 var compoundWords;
 var thaiWords;
