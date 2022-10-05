@@ -1,4 +1,4 @@
-var dictionaryNames = ["tbDicNounA.txt", "tbDicNounB.txt", "tbDicVerb.txt", "tbDicVerb.txt"];
+var dictionaryNames = ["tbDicNounA.txt", "tbDicNounB.txt", "tbDicVerb.txt", "tbDicVerb.txt", "tbDicLinkingVerb.txt", "tbDicPronoun.txt"];
 var compoundDictionryNames = ["compound-words.txt"];
 var dictionaryURL = './data/';
 
