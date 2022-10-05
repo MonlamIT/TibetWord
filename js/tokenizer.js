@@ -1,4 +1,4 @@
-var dictionaryNames = ["tbDicNounA.txt", "tbDicNounB.txt", "tbDicVerb.txt", "tbDicAdjective.txt", "tbDicAdverb.txt", "tbDicLinkingVerb.txt", "tbDicPronoun.txt", "tbDicParticle.txt", "tbDicInterjection.txt", "tbDicSimilarity.txt", "tbDicSynonymy.txt", "tbDicNumerral.txt", "tbDicQuantifier.txt"];
+var dictionaryNames = ["tbDicNounA.txt", "tbDicNounB.txt", "tbDicVerb.txt", "tbDicAdjective.txt", "tbDicAdverb.txt", "tbDicLinkingVerb.txt", "tbDicPronoun.txt", "tbDicParticle.txt", "tbDicInterjection.txt", "tbDicSimilarity.txt", "tbDicSynonymy.txt", "tbDicNumerral.txt", "tbDicQuantifier.txt", "tbDicTime.txt"];
 var compoundDictionryNames = ["compound-words.txt"];
 var dictionaryURL = './data/';
 
