@@ -129,7 +129,7 @@ function tokenize(string) {
 
   for(var i in workingArray) {
     var string = workingArray[i];
-    if(string.search(/[ก-๙]/)>=0) {
+    if(string.search(/[ༀ-࿘]/)>=0) {
       var thaiTokens = breakThaiWords(string);
       for(var j in thaiTokens) {
         string = thaiTokens[j];
@@ -152,7 +152,7 @@ function convertLowerCase(string) {
 
 function filterSymbols(data) {
   data = data.replace(/(\n)/g, '');
-  data = data.replace(/[^a-z 0-9 ก-๙]/gi,' ');
+  data = data.replace(/[^a-z 0-9 ༀ-࿘]/gi,' ');
   return data;
 }
 
