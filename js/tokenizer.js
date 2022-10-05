@@ -212,4 +212,3 @@ function breakThaiWords(string) {
   }
   return words;
 }
-
