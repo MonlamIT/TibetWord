@@ -60,7 +60,6 @@ function buildThaiDictionary() {
     // }
   }
 }
-
 function callAjax(url, callback){
 // Code from: http://stackoverflow.com/a/18324384/967802
     var xmlhttp;
